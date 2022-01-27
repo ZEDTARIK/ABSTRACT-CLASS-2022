@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\bin\Debug\ABSTRACT_CLASS.exe.config
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\bin\Debug\ABSTRACT_CLASS.exe
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\bin\Debug\ABSTRACT_CLASS.pdb
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.Form1.resources
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.exe
+C:\Users\ASUS\Desktop\Projects\C#\ABSTRACT_CLASS\ABSTRACT_CLASS\obj\Debug\ABSTRACT_CLASS.pdb
